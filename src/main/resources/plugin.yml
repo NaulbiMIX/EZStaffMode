@@ -1,0 +1,14 @@
+name: EZStaffMode
+version: 1.0
+author: SoFocused
+description: StaffMode Episode 1
+main: com.ezstaffmode.main.EZStaffMode
+commands:
+  staffmode:
+    description: Staffmode command
+    aliases: [sm]
+  freeze:
+    description: Freeze command
+  unfreeze:
+    description: Unfreeze command
+    aliases: [ufreeze]

@@ -1,0 +1,9 @@
+frozen-player: "&eYou were frozen!"
+freeze-send-message: "&eYou have frozen {player}"
+unfreezed-player: "&eYou were unfrozen!"
+unfreeze-send-message: "&eYou have unfrozen {player}"
+no-permission: "&cYou are not allowed to do this!!!"
+enter-staff-mode: "&eYou've entered staffmode!"
+leave-staff-mode: "&eYou've left staffmode!"
+
+inventory:
